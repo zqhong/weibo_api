@@ -3,8 +3,8 @@ It is a simple weibo api depend on cookies. I just use it to delete all my weibo
 
 ### Install
 1. Install requirment modules. `$ sudo pip install -r requirements.txt`
-2. Put your cookie to the file named *weibo.dat*
-2. Execute *example.py*, it will test to post a message.
+2. Put your cookie to the file named **weibo.dat**
+2. Execute **example.py**, it will test to post a message.
 
 
 ### Usage
