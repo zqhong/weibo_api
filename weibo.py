@@ -3,6 +3,7 @@
 """
     @author akira <i@zqhong.com>
     @date   2016-01-05
+    @License http://www.apache.org/licenses/LICENSE-2.0
 """
 
 try:

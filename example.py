@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 
 """
-    @author akira <i@zqhong.com>
-    @date   2016-01-06
+    @author  akira <i@zqhong.com>
+    @date    2016-01-06
+    @License http://www.apache.org/licenses/LICENSE-2.0
 """
 
 from weibo import *
