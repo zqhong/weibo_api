@@ -41,7 +41,8 @@ Please create a file named 'weibo.dat', and then write your weibo cookies to it.
         headers = {
             'User-Agent':'Mozilla/5.0 (X11; Linux i686; rv:8.0) Gecko/20100101 Firefox/8.0',
             'X-Requested-With': 'XMLHttpRequest',
-            # 需要带上 Referer，不能回出现 系统繁忙 的错误
+            # 防跨站请求
+            # TODO：如果没有该参数，会出现 “系统繁忙” 的错误
             'Referer': 'http://weibo.com',
         }
 
